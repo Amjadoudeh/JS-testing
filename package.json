@@ -1,0 +1,23 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amjadoudeh/JS-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amjadoudeh/JS-testing/issues"
+  },
+  "homepage": "https://github.com/Amjadoudeh/JS-testing#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
